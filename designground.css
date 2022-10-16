@@ -1,5 +1,5 @@
 * {
-margin: 0;
+margin: -2;
 padding: 0;
 box-sizing: border-box;
 }
@@ -172,7 +172,7 @@ min-height: 80rem;
   
   .about img {
     width: 98%;
-    justify-self: end;
+    justify-self: start;
     border-radius: 9px;
   }
   
