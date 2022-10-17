@@ -1,5 +1,5 @@
 * {
-margin: -2;
+margin: 0;
 padding: 0;
 box-sizing: border-box;
 }
@@ -116,12 +116,12 @@ min-height: 80rem;
   /* Hero section */
   /* ****************** */
   .section-hero {
-    padding: 15rem 0 9.6rem;
+    padding: 0;
   }
   
   .hero {
     max-width: 75rem;
-    padding: 0 9.6rem;
+    padding: 0;
     align-items: left;
   }
   
@@ -135,7 +135,7 @@ min-height: 80rem;
   /* Our Services */
   /* ****************** */
   .our-services {
-    padding: 9.6rem 0;
+    padding: 0;
   }
   
   .container {
@@ -167,7 +167,7 @@ min-height: 80rem;
   }
   
   .about {
-    padding: 2rem 0 7rem 0;
+    padding: 0;
   }
   
   .about img {
