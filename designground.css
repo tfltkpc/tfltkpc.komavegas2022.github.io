@@ -1,5 +1,5 @@
 * {
-margin: 0;
+margin: 10;
 padding: 0;
 box-sizing: border-box;
 }
@@ -121,7 +121,7 @@ min-height: 80rem;
   
   .hero {
     max-width: 75rem;
-    padding: 0;
+    padding: 5;
     align-items: left;
   }
   
@@ -140,7 +140,7 @@ min-height: 80rem;
   
   .container {
     max-width: 120rem;
-    margin: 0 auto;
+    margin: 5;
     padding: 1.5rem 3.2rem;
   }
   .grid {
@@ -167,7 +167,7 @@ min-height: 80rem;
   }
   
   .about {
-    padding: 0;
+    padding: 5;
   }
   
   .about img {
@@ -200,7 +200,7 @@ min-height: 80rem;
   }
   
   .games {
-    padding: 0;
+    padding: 5;
   }
   
   .games img {
